@@ -1,0 +1,57 @@
+    1  ls
+    2  ls -a
+    3  ls ..
+    4  pwd
+    5  cd Desktop/
+    6  pwd
+    7  cd ..
+    8  cd ~
+    9  cd Desktop/
+   10  mkdir comandos
+   11  ls
+   12  cd comandos
+   13  mkdir 'pasta juan'
+   14  ls
+   15  rm 'pasta juan'
+   16  ls
+   17  mv 'pasta juan' juan
+   18  ls
+   19  rm juan
+   20  rm -r juan
+   21  touch text.txt
+   22  ls
+   23  echo 'hola juan como está ustyed' > text,txt
+   24  cat text.txt
+   25  echo 'hola juan como está ustyed' > text.txt
+   26  cat text.txt
+   27  cat > text.txt
+   28  cat text.txt
+   29  cat > text.txt
+   30  cat text.txt
+   31  cat >> text.txt
+   32  cat >> text.txt
+   33  cat text.txt
+   34  history
+   35  history 10
+   36  git -v
+   37  git config
+   38  git config --global
+   39  git config --list
+   40  git config --global user.name 'juanfisico23'
+   41  git config --list
+   42  git config --global user.email juanfisico23@gmail.com
+   43  git config --list
+   44  git config --list
+   45  ls
+   46  git init
+   47  git status
+   48  echo '#aprendendo usar o git'>readme.md
+   49  cat readme.md 
+   50  git add readme.md
+   51  git add .
+   52  git status
+   53  echo '##aula 1' >> readme.md 
+   54  git status
+   55  git add .
+   56  git status
+   57  history >> aula03.txt
