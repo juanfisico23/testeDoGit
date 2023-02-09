@@ -1,0 +1,26 @@
+    1  git log
+    2  git log --pretty=oneline
+    3  git commite -m 'juan'
+    4  git commit -m 'juan'
+    5  git log --pretty=oneline
+    6  touch teste
+    7  git add teste
+    8  gti commit -m 'comi teste'
+    9  git commit -m 'comi teste'
+   10  git log
+   11  git log
+   12  mkdir .vscode
+   13  touch confg.txt
+   14  git status
+   15  echo '.vscode/' > .gitignore
+   16  git log
+   17  git status
+   18  echo 'confg.txt' >> gitignore
+   19  git status
+   20  echo 'confg.txt' >> .gitignore
+   21  echo 'gitignore' >> .gitignore
+   22  git status
+   23  git add .gitignore
+   24  git commit -m 'ignorado'
+   25  git status
+   26  history > aula04.txt
